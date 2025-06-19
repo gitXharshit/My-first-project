@@ -1,1 +1,2 @@
-# My-first-project
+# My First Project Using HTML and CSS.
+# Amazon Clone
